@@ -1,5 +1,7 @@
 # airplane
 
+Built with Nuxt and VueJS.
+
 ## Build Setup
 
 ```bash
