@@ -1,8 +1,15 @@
 <template>
-  <div class="container-fluid">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid p-0 m-0">
+    <nav style="padding: 3rem;" class="navbar navbar-expand-lg navbar-light bg-light">
 
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <a class="navbar-brand" href="#">
+        <fa icon="plane-departure" class="fa-sm"></fa>
+        Airship
+      </a>
+
+      <!-- visible only on sizing-->
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+              aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
 
@@ -15,13 +22,13 @@
             <a class="nav-link" href="#">ABOUT</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">PRICING</a>
+            <a class="nav-link" href="#">CONTACT</a>
           </li>
         </ul>
-        <span class="nav-item" >
+      </div>
+      <span class="nav-item">
           <fa icon="comment-dots" class="fa-2x"></fa>
         </span>
-      </div>
     </nav>
 
 
@@ -29,5 +36,15 @@
 </template>
 
 <script>
-export default {}
+  export default {}
 </script>
+
+<style lang="scss" scoped>
+  .navbar-nav {
+
+    .nav-item {
+      font-family: Roboto, sans-serif;
+    }
+
+  }
+</style>
