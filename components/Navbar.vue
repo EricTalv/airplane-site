@@ -7,7 +7,7 @@
       <span class="navbar-toggler-icon"></span>
     </button>
 
-    <a class="navbar-brand" style="color: #505050" href="#">
+    <a class="navbar-brand" href="#">
       <fa icon="plane-departure" class="fa-sm"></fa>
       <b>Airship</b>
     </a>
