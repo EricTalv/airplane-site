@@ -43,20 +43,21 @@
   nav {
 
     padding: 3rem;
+  }
 
-    .navbar-brand {
-      font-size: 2rem;
+  .navbar-brand {
+    font-size: 2rem;
+    color: $secondary-color;
+  }
+
+  .navbar-nav {
+    font-size: 1.3rem;
+  }
+
+  .action-btn {
+    a {
       color: $secondary-color;
     }
-
-    .navbar-nav {
-      font-size: 1.3rem;
-    }
-
-    .action-btn {
-      a {
-        color: $secondary-color;
-      }
-    }
   }
+
 </style>
