@@ -40,28 +40,22 @@
 
 <style lang="scss" scoped>
 
-  $brand-color: #505050;
-
   nav {
 
     padding: 3rem;
 
     .navbar-brand {
       font-size: 2rem;
-      color: $brand-color;
+      color: $secondary-color;
     }
 
     .navbar-nav {
       font-size: 1.3rem;
-
-      .nav-item {
-        font-family: Roboto, sans-serif;
-      }
     }
 
     .action-btn {
       a {
-        color: $brand-color;
+        color: $secondary-color;
       }
     }
   }
