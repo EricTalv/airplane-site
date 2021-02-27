@@ -6,11 +6,15 @@
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
+    <!--  END  -->
 
+    <!--  Brand goes to middle on smaller size  -->
     <a class="navbar-brand" href="#">
       <fa icon="plane-departure" class="fa-sm"></fa>
-      <b>Airship</b>
+      <b>Aerion</b>
     </a>
+    <!--  END  -->
+
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
@@ -46,6 +50,7 @@
       font-size: 2rem;
       color: $brand-color;
     }
+
     .navbar-nav {
       font-size: 1.3rem;
 
@@ -53,6 +58,7 @@
         font-family: Roboto, sans-serif;
       }
     }
+
     .action-btn {
       a {
         color: $brand-color;
