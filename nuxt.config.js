@@ -35,7 +35,7 @@ export default {
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     // '@/assets/scss//bootstrap.css',
-    // '@/assets/scss/main.scss',
+    '@/assets/scss/global.scss',
   ],
 
   js: [
@@ -71,8 +71,16 @@ export default {
     'bootstrap-vue/nuxt'
   ],
 
+  bootstrapVue: {
+    bootstrapCSS: false,
+    bootstrapVueCSS: false
+  },
+
   styleResources: {
-    scss: ['./assets/scss/*.scss']
+    scss: [
+      './assets/scss/*.scss',
+      '~bootstrap/scss/bootstrap.scss'
+    ]
   },
 
   // PWA module configuration: https://go.nuxtjs.dev/pwa

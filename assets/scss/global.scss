@@ -1,0 +1,17 @@
+// Variables & Fonts
+@import "fonts";
+@import "variables";
+
+// Bootstrap styles
+@import "~bootstrap/scss/bootstrap";
+
+// Components
+@import "components/navbar";
+
+// Global styles
+* {
+  font-family: Roboto, sans-serif;
+}
+
+
+
