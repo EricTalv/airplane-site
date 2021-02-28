@@ -19,10 +19,10 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
-          <a class="nav-link" href="#">PRICING</a>
+          <a class="nav-link" href="#">ABOUT</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">ABOUT</a>
+          <a class="nav-link" href="#">PRICING</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">CONTACT</a>
@@ -30,7 +30,7 @@
       </ul>
     </div>
     <span class="action-btn nav-item d-none d-sm-block">
-          <a href="">
+          <a href="#">
             <fa icon="comment-alt" class="fa-2x"></fa>
           </a>
       </span>

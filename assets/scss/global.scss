@@ -1,17 +1,30 @@
-// Variables & Fonts
-@import "fonts";
 @import "variables";
 
 // Bootstrap styles
 @import "~bootstrap/scss/bootstrap";
 
+// Fonts
+@import "fonts";
+
 // Components
 @import "components/navbar";
-
+@import "components/intro-section";
 // Global styles
 * {
   font-family: Roboto, sans-serif;
 }
 
+// Make font responsive
+@include media-breakpoint-down(sm) {
+  html {
+    font-size: 10px;
+  }
+  body {
+    overflow-x: hidden;
+  }
 
+  .c-text-center {
+    text-align: center;
+  }
 
+}
