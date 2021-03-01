@@ -9,12 +9,18 @@
 // Components
 @import "components/navbar";
 @import "components/intro-section";
+@import "components/about-section";
 
 // === Global styles === //
+
+.row {
+  margin-bottom: 300px;
+}
 
 // Primary Font
 * {
   font-family: Roboto, sans-serif;
+  color: $secondary-color;
 }
 
 // Remove horizontal scrollbar

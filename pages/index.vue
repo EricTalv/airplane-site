@@ -10,7 +10,58 @@
     <!-- intro end -->
 
     <!-- about -->
-    <section></section>
+    <section>
+      <div class="row about-first p-5 ">
+
+        <div class="col-md-6 col-sm-12 d-flex justify-content-center align-items-center">
+          <img src="./../assets/images/cloud.svg" alt="">
+        </div>
+
+        <div class="col-md-6 col-sm-12">
+          <div class="about-title-first">
+            <h2>What we do</h2>
+          </div>
+          <div class="about-p-first w-50">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti distinctio dolor, ducimus enim nostrum odio officiis porro quo reprehenderit tempore.
+          </div>
+        </div>
+
+      </div>
+
+      <div class="row about-second p-5 ">
+
+        <div class="col-md-6 col-sm-12">
+          <div class="about-title-second">
+            <h2>What we do</h2>
+          </div>
+          <div class="about-p-second w-50">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti distinctio dolor, ducimus enim nostrum odio officiis porro quo reprehenderit tempore.
+          </div>
+        </div>
+
+        <div class="col-md-6 col-sm-12 d-flex justify-content-center align-items-center">
+          <img src="./../assets/images/cloud.svg" alt="">
+        </div>
+
+      </div>
+
+      <div class="row about-third p-5 ">
+
+        <div class="col-md-6 col-sm-12 d-flex justify-content-center align-items-center">
+          <img src="./../assets/images/cloud.svg" alt="">
+        </div>
+
+        <div class="col-md-6 col-sm-12">
+          <div class="about-title-third">
+            <h2>What we do</h2>
+          </div>
+          <div class="about-p-third w-50">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti distinctio dolor, ducimus enim nostrum odio officiis porro quo reprehenderit tempore.
+          </div>
+        </div>
+
+      </div>
+    </section>
     <!-- about end -->
 
     <!-- pricing -->
