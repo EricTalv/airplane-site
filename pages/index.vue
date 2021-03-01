@@ -9,11 +9,11 @@
     <section>
       <div class="intro-section row justify-content-center ">
         <div class="col-md-6 col-sm-12 c-text-center">
-          <h1 class="intro-title secondary-color">Get your very first Aerion Today!</h1>
-          <h5 class="intro-subtitle text-muted">We provide you with Aerion's tailored to your wishes.</h5>
+          <h1 class="intro-title secondary-color">Fly with  <span class="intro-span">Aerion.</span> </h1>
+          <h5 class="intro-subtitle text-muted">Aerion provides you with <i>first-class</i> flight solutions.</h5>
           <a href="#" class="btn learn-more-btn">learn more</a>
         </div>
-        <div class="col-md-6 col-sm-12 mt-5 mt-md-0">
+        <div class="col-md-6 col-sm-12 mt-5 mt-md-0 d-flex">
           <intro-svg class="intro-svg"></intro-svg>
         </div>
       </div>
