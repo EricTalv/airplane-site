@@ -3,7 +3,7 @@
 }
 
 .intro-title {
-  font-size: 9rem;
+  font-size: 11vw;
   font-weight: bold;
 
   &.secondary-color {
@@ -24,8 +24,8 @@ body {
     position: absolute;
     width: 90%;
     height: 50%;
-    top: 79px;
-    left: 35px;
+    top: 6.5vw;
+    left: 2.5vw;
     background: $primary-color;
     z-index: -1;
 
@@ -40,6 +40,7 @@ body {
 .learn-more-btn {
   background-color: yellow;
   font-weight: bold;
+  padding: 1vw 2vw 1vw 2vw;
 }
 
 // Sizing on smaller screen
@@ -51,15 +52,15 @@ body {
     width: 60%;
   }
 
-  body {
-    background-color: red;
+  .intro-title {
+    font-size: 7vw;
   }
 
   .intro-span {
     &:before {
 
-      top: 55px;
-      left: 20px;
+      top: 4.2vw;
+      left: 1.9vw;
     }
 
   }
