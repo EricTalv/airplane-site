@@ -3,14 +3,16 @@
 // Bootstrap styles
 @import "~bootstrap/scss/bootstrap";
 
-// Fonts
+// Import Fonts
 @import "fonts";
 
 // Components
 @import "components/navbar";
 @import "components/intro-section";
 
-// Global styles
+// === Global styles === //
+
+// Primary Font
 * {
   font-family: Roboto, sans-serif;
 }
@@ -20,7 +22,19 @@ body, html {
   overflow-x: hidden;
 }
 
-// Make font responsive on smaller window size
+// Define selection
+@mixin selection {
+  ::-moz-selection { @content; }
+  ::selection { @content; }
+}
+
+// Selection rules
+@include selection {
+  color: white;
+  background: $primary-color;
+}
+
+// Media queries for SM screens
 @include media-breakpoint-down(sm) {
   html {
     font-size: 10px;
@@ -31,8 +45,3 @@ body, html {
   }
 }
 
-@media screen and (max-width: 1153px) {
-  html {
-    font-size: 14px;
-  }
-}
