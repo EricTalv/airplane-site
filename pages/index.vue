@@ -7,7 +7,7 @@
 
     <!--  intro  -->
     <section>
-      <div class="intro-section row justify-content-center ">
+      <div class="row intro-section">
         <div class="col-md-6 col-sm-12 c-text-center">
           <h1 class="intro-title secondary-color">Fly with  <span class="intro-span">Aerion.</span> </h1>
           <h5 class="intro-subtitle text-muted">Aerion provides you with <i>first-class</i> flight solutions.</h5>
