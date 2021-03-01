@@ -9,8 +9,8 @@
     <!--  END  -->
 
     <!--  Brand goes to middle on smaller size  -->
-    <a class="navbar-brand" href="#">
-      <fa icon="plane-departure" class="fa-sm"></fa>
+    <a class="navbar-brand c-nav-logo" href="#">
+      <fa icon="plane-departure" class="brand-icon fa-sm"></fa>
       <b>Aerion</b>
     </a>
     <!--  END  -->

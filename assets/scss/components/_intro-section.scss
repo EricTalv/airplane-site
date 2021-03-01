@@ -37,10 +37,17 @@ body {
   margin: 20px 0 20px 0;
 }
 
-.learn-more-btn {
-  background-color: yellow;
+.intro-btn {
+  background-color: $primary-color;
+  color: $secondary-color;
   font-weight: bold;
   padding: 1vw 2vw 1vw 2vw;
+  transition: all .5s;
+
+  &:hover {
+    border: 2px solid $primary-color;
+    background: transparent;
+  }
 }
 
 // Sizing on smaller screen

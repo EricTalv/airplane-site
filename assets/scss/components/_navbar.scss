@@ -4,7 +4,16 @@
 
 .navbar-brand {
   font-size: 2rem;
-  color: red;
+
+  b {
+    color: $secondary-color;
+  }
+
+  .brand-icon {
+    color: $secondary-color;
+  }
+
+
 }
 
 .navbar-nav {
