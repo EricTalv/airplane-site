@@ -31,10 +31,10 @@
       <div class="row about-second p-5 ">
 
         <div class="col-md-6 col-sm-12">
-          <div class="about-title-second">
+          <div class="about-title">
             <h2>What we do</h2>
           </div>
-          <div class="about-p-second w-50">
+          <div class="about-p w-50">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti distinctio dolor, ducimus enim nostrum odio officiis porro quo reprehenderit tempore.
           </div>
         </div>
@@ -45,17 +45,17 @@
 
       </div>
 
-      <div class="row about-third p-5 ">
+      <div class="row about p-5 ">
 
         <div class="col-md-6 col-sm-12 d-flex justify-content-center align-items-center">
           <img src="./../assets/images/cloud.svg" alt="">
         </div>
 
         <div class="col-md-6 col-sm-12">
-          <div class="about-title-third">
+          <div class="about-title">
             <h2>What we do</h2>
           </div>
-          <div class="about-p-third w-50">
+          <div class="about-p w-50">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti distinctio dolor, ducimus enim nostrum odio officiis porro quo reprehenderit tempore.
           </div>
         </div>
