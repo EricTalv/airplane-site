@@ -39,7 +39,9 @@
             Since 1985 we have build and curated small businesses with state of the art
             solutions tailored to their needs and wishes.
             <br>
-            Our customer rating over the years has been a stable 4.
+            <br>
+            We believe in four-dimensional management mobility,
+            our upgraded model now offers 21st Century logistical paradigm shifts.
           </div>
         </div>
 
@@ -57,11 +59,12 @@
 
         <div class="col-md-6 col-sm-12">
           <div class="about-title">
-            <h2>What we do</h2>
+            <h2>The team</h2>
           </div>
           <div class="about-p w-50">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti distinctio dolor, ducimus enim nostrum
-            odio officiis porro quo reprehenderit tempore.
+            Our Team is comprised of 10 top level fight experts and enthusiasts.
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto, consequuntur doloribus est provident
+            qui voluptatibus?
           </div>
         </div>
 
