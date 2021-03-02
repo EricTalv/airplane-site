@@ -22,7 +22,8 @@
             <h2>What we do</h2>
           </div>
           <div class="about-p w-50">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti distinctio dolor, ducimus enim nostrum odio officiis porro quo reprehenderit tempore.
+            We enterprise level flight services and solutions for your business.
+            Starting from simple pilot and crew recruitment to having your flying business lift off the ground.
           </div>
         </div>
 
@@ -32,10 +33,13 @@
 
         <div class="col-md-6 col-sm-12">
           <div class="about-title">
-            <h2>What we do</h2>
+            <h2>Our background</h2>
           </div>
           <div class="about-p w-50">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti distinctio dolor, ducimus enim nostrum odio officiis porro quo reprehenderit tempore.
+            Since 1985 we have build and curated small businesses with state of the art
+            solutions tailored to their needs and wishes.
+            <br>
+            Our customer rating over the years has been a stable 4.
           </div>
         </div>
 
@@ -56,7 +60,8 @@
             <h2>What we do</h2>
           </div>
           <div class="about-p w-50">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti distinctio dolor, ducimus enim nostrum odio officiis porro quo reprehenderit tempore.
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti distinctio dolor, ducimus enim nostrum
+            odio officiis porro quo reprehenderit tempore.
           </div>
         </div>
 
@@ -77,7 +82,7 @@
 </template>
 
 <script>
-  export default {}
+export default {}
 </script>
 
 <style lang="scss">
