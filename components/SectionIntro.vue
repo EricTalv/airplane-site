@@ -1,6 +1,6 @@
 <template>
-  <section>
-    <div class="row intro-section px-5">
+  <section class="intro-section">
+    <div class="row  px-5">
       <div class="col-md-6 col-sm-12 c-text-center">
         <h1 class="intro-title secondary-color">Fly with  <span class="intro-span">Aerion.</span> </h1>
         <h5 class="intro-subtitle text-muted">Aerion provides you with <i>first-class</i> flight solutions.</h5>
