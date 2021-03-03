@@ -1,6 +1,6 @@
 # airplane
 
-Built with Nuxt and VueJS.
+Built with Nuxt and VueJS
 
 ## Build Setup
 
