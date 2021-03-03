@@ -14,7 +14,7 @@
       <div class="row p-5 ">
 
         <div class="col-md-6 col-sm-12 d-flex justify-content-center align-items-center">
-          <img src="./../assets/images/cloud.svg" alt="">
+          <img src="./../assets/images/what-we-do.svg" alt="">
         </div>
 
         <div class="col-md-6 col-sm-12">
@@ -46,7 +46,7 @@
         </div>
 
         <div class="col-md-6 col-sm-12 d-flex justify-content-center align-items-center">
-          <img src="./../assets/images/cloud.svg" alt="">
+          <img src="./../assets/images/our-background.svg" alt="">
         </div>
 
       </div>
@@ -54,7 +54,7 @@
       <div class="row about p-5 ">
 
         <div class="col-md-6 col-sm-12 d-flex justify-content-center align-items-center">
-          <img src="./../assets/images/cloud.svg" alt="">
+          <img src="./../assets/images/the-team.svg" alt="">
         </div>
 
         <div class="col-md-6 col-sm-12">
