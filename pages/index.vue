@@ -11,7 +11,8 @@
 
     <!-- about -->
     <section class="about-section">
-      <div class="row p-5 ">
+      <div class="row p-5 flex-column-reverse flex-md-row">
+
 
         <div class="col-md-6 col-sm-12">
           <img src="./../assets/images/what-we-do.svg" alt="">
@@ -24,6 +25,9 @@
             Starting from simple pilot and crew recruitment to having your flying business lift off the ground.
           </p>
         </div>
+
+
+
 
       </div>
 
