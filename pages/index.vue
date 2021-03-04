@@ -51,21 +51,21 @@
 
       </div>
 
-      <div class="row about p-5 ">
+      <div class="row about p-5">
 
-        <div class="col-md-6 col-sm-12 d-flex justify-content-center align-items-center">
+        <div class="col-md-6 col-sm-12 ">
           <img src="./../assets/images/the-team.svg" alt="">
         </div>
 
-        <div class="col-md-6 col-sm-12">
-          <div class="about-title">
-            <h2>The team</h2>
-          </div>
-          <div class="about-p w-50">
-            Our Team is comprised of 10 top level fight experts and enthusiasts.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto, consequuntur doloribus est provident
-            qui voluptatibus?
-          </div>
+        <div class="col-md-6 col-sm-12 d-flex justify-content-center align-items-center flex-column">
+            <div class="about-title w-50">
+              <h2>The team</h2>
+            </div>
+            <div class="about-p w-50">
+              Our Team is comprised of 10 top level fight experts and enthusiasts.
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto, consequuntur doloribus est provident
+              qui voluptatibus?
+            </div>
         </div>
 
       </div>
