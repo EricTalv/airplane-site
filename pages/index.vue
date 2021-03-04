@@ -51,7 +51,7 @@
 
       </div>
 
-      <div class="row about p-5">
+      <div class="row about p-5 flex-column-reverse flex-md-row">
 
         <div class="col-md-6 col-sm-12 ">
           <img src="./../assets/images/the-team.svg" alt="">
