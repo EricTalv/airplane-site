@@ -1,5 +1,18 @@
 
 .about-title {
-
+  font-weight: bold;
+  color: $secondary-color;
+  width: 50%;
 }
 
+.about-p {
+  font-size: 1.2rem;
+  width: 50%;
+}
+
+.about-text-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+}
