@@ -17,8 +17,29 @@
   flex-flow: column;
 }
 
-@media screen and (max-width: 767px)
-
 .about-section {
-
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+  }
 }
+
+.about-img-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+@media screen and (max-width: 767px) {
+  .about-section {
+    img {
+      width: 50%;
+      margin-top: 20px;
+    }
+  }
+}
+
+

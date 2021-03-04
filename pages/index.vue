@@ -14,7 +14,7 @@
       <div class="row p-5 flex-column-reverse flex-md-row">
 
 
-        <div class="col-md-6 col-sm-12">
+        <div class="col-md-6 col-sm-12 about-img-wrapper">
           <img src="./../assets/images/what-we-do.svg" alt="">
         </div>
 
@@ -45,7 +45,7 @@
           </p>
         </div>
 
-        <div class="col-md-6 col-sm-12 ">
+        <div class="col-md-6 col-sm-12 about-img-wrapper ">
           <img src="./../assets/images/our-background.svg" alt="">
         </div>
 
@@ -53,7 +53,7 @@
 
       <div class="row about p-5 flex-column-reverse flex-md-row">
 
-        <div class="col-md-6 col-sm-12 ">
+        <div class="col-md-6 col-sm-12 about-img-wrapper">
           <img src="./../assets/images/the-team.svg" alt="">
         </div>
 
