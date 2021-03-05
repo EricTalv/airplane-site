@@ -13,7 +13,6 @@
     <section class="about-section">
       <div class="row p-5 flex-column-reverse flex-md-row">
 
-
         <div class="col-md-6 col-sm-12 about-img-wrapper">
           <img src="./../assets/images/what-we-do.svg" alt="">
         </div>
@@ -26,10 +25,16 @@
           </p>
         </div>
 
-
-
-
       </div>
+
+      <row-text-img
+        title="What we do"
+        description="txt"
+        image="./../assets/images/what-we-do.svg"
+        reorder="true"
+
+
+      ></row-text-img>
 
       <div class="row about-second p-5 ">
 
