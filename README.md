@@ -1,6 +1,12 @@
-# airplane
+# About
 
-Built with Nuxt and VueJS
+This is primarily a front-end website.
+
+Technologies used:
+ - NuxtJS
+ - VueJS
+ - Bootstrap 4
+ - SVG's
 
 ## Build Setup
 
