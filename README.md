@@ -1,4 +1,4 @@
-# About
+# About.
 
 This is primarily a front-end website.
 
