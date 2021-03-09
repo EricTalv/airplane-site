@@ -1,9 +1,13 @@
 <template>
 
-  <div class="row about p-5 flex-column-reverse flex-md-row">
-
+  <div
+    class="row about p-5 flex-column-reverse flex-md-row"
+    :class="{
+                 'flex-column-reverse flex-md-row': reorder,
+           } ">
+    '
     <div class="col-md-6 col-sm-12 about-img-wrapper">
-      <img :src="'./../assets/images/' +  imgUrl " alt="">
+      <img :src="'./../assets/images/' +  image " alt="">
     </div>
 
     <div class="col-md-6 col-sm-12 about-text-center">
@@ -17,7 +21,10 @@
 
 </template>
 <script>
- export default  {
-
- }
+export default {
+  props: ['title', 'description', 'reorder', 'image'],
+  data() {
+    return {}
+  }
+}
 </script>
