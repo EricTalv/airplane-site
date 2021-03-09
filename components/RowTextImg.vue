@@ -2,7 +2,7 @@
 
   <div
     class="row p-5 flex-column-reverse"
-    :class="[ reorder ? 'flex-md-row' : 'flex-sm-row' ]
+    :class="[ reorder ? 'flex-md-row' : 'flex-md-row-reverse' ]
 
     ">
     <div class="col-md-6 col-sm-12 about-img-wrapper">
