@@ -14,7 +14,7 @@
       <div class="row p-5 flex-column-reverse flex-md-row">
 
         <div class="col-md-6 col-sm-12 about-img-wrapper">
-          <img src="./../assets/images/what-we-do.svg" alt="">
+          <img src="~/assets/images/what-we-do.svg" alt="">
         </div>
 
         <div class="col-md-6 col-sm-12 about-text-center">

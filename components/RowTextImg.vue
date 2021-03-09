@@ -7,7 +7,7 @@
            } ">
     '
     <div class="col-md-6 col-sm-12 about-img-wrapper">
-      <img :src="'./../assets/images/' +  image " alt="">
+      <img :src="require(`~/assets/images/${image}`)" alt="">
     </div>
 
     <div class="col-md-6 col-sm-12 about-text-center">
