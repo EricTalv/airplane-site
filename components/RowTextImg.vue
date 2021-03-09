@@ -1,11 +1,10 @@
 <template>
 
   <div
-    class="row about p-5"
+    class="row p-5"
     :class="{
                  'flex-column-reverse flex-md-row': reorder,
            } ">
-    '
     <div class="col-md-6 col-sm-12 about-img-wrapper">
       <img :src="require(`~/assets/images/${image}`)" alt="">
     </div>
@@ -25,6 +24,10 @@ export default {
   props: ['title', 'description', 'reorder', 'image'],
   data() {
     return {}
+  },
+
+  created() {
+    console.log(this.reorder)
   }
 }
 </script>
