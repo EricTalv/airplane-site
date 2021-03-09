@@ -1,7 +1,7 @@
 <template>
 
   <div
-    class="row about p-5 flex-column-reverse flex-md-row"
+    class="row about p-5"
     :class="{
                  'flex-column-reverse flex-md-row': reorder,
            } ">
