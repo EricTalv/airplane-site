@@ -2,7 +2,7 @@
 
   <div
     class="row p-5 flex-column-reverse"
-    :class="[ reorder ? 'flex-md-row' : 'flex-md-row-reverse' ]
+    :class="[ contentRight ? 'flex-md-row' : 'flex-md-row-reverse' ]
 
     ">
     <div class="col-md-6 col-sm-12 about-img-wrapper">
@@ -29,7 +29,7 @@ export default {
     title: String,
     description: String,
     image: String,
-    reorder: Boolean,
+    contentRight: Boolean,
   },
 }
 </script>

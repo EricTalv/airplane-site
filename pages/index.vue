@@ -17,7 +17,7 @@
         description="We enterprise level flight services and solutions for your business.
             Starting from simple pilot and crew recruitment to having your flying business lift off the ground."
         image="what-we-do.svg"
-        reorder
+        contentRight
 
       ></row-text-img>
 
@@ -39,7 +39,7 @@
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto, consequuntur doloribus est provident
             qui voluptatibus?"
         image="the-team.svg"
-        reorder
+        contentRight
 
       ></row-text-img>
 
