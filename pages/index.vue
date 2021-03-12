@@ -6,7 +6,7 @@
     <!-- nav end -->
 
     <!--  intro  -->
-    <section-intro></section-intro>
+    <intro-section></intro-section>
     <!-- intro end -->
 
     <!-- about -->
@@ -47,7 +47,17 @@
     <!-- about end -->
 
     <!-- pricing -->
-    <section></section>
+    <section>
+      <div class="row">
+        <div class="card" style="width: 18rem;">
+          <div class="card-header">
+            BRONZE
+          </div>
+
+        </div>
+      </div>
+
+    </section>
     <!-- pricing end -->
 
     <!-- footer  -->
