@@ -1,7 +1,7 @@
 <template>
 
   <div
-    class="row m-5 flex-column-reverse"
+    class="row mx-5 flex-column-reverse about-row"
     :class="[ contentRight ? 'flex-md-row' : 'flex-md-row-reverse' ]
 
     ">
