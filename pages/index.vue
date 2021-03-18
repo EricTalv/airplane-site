@@ -103,7 +103,12 @@
     <!-- pricing end -->
 
     <!-- footer  -->
-    <section></section>
+    <footer>
+      <h1 class="thin">THIN</h1>
+      <h1 class="reg">REGULAR</h1>
+      <h1 class="med">MEDIUM</h1>
+      <h1 class="black">BLACK</h1>
+    </footer>
     <!-- footer end -->
 
 

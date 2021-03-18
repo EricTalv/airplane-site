@@ -1,10 +1,8 @@
+
 @import "variables";
 
 // Bootstrap styles
 @import "~bootstrap/scss/bootstrap";
-
-// Import Fonts
-@import "fonts";
 
 // Components
 @import "components/navbar";
@@ -12,7 +10,27 @@
 @import "components/about-section";
 @import "components/pricing-section";
 
+
+
 // === Global styles === //
+
+
+.thin {
+  font-weight: 100;
+}
+
+.reg {
+  font-weight: 400;
+}
+
+.med {
+  font-weight: 500;
+}
+
+.black {
+  font-weight: 900;
+}
+
 
 // Primary Font
 * {

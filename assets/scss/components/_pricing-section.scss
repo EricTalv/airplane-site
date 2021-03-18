@@ -1,5 +1,5 @@
 .pricing-title {
-  font-weight: bold;
+  font-weight: 400;
   color: $secondary-color;
 
   position: relative;
@@ -14,6 +14,12 @@
     background: $primary-color;
     z-index: -1;
   }
+}
 
+.card-header {
+  h4 {
+    font-weight: 100;
 
+    font-size: 25px;
+  }
 }
