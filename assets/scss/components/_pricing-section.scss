@@ -1,0 +1,19 @@
+.pricing-title {
+  font-weight: bold;
+  color: $secondary-color;
+
+  position: relative;
+
+  &:before {
+    content: "";
+    position: absolute;
+    width: 90%;
+    height: 50%;
+    top: 2.2vw;
+    left: 1.1vw;
+    background: $primary-color;
+    z-index: -1;
+  }
+
+
+}
